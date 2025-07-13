@@ -1,0 +1,23 @@
+# Python virtual environments
+.venv/
+bert-env/
+sent-env/
+*.pyc
+__pycache__/
+
+# Streamlit and Jupyter
+*.ipynb_checkpoints/
+logs/
+*.log
+
+# VSCode or PyCharm
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+
+# Huggingface & model caches
+~/
+.cache/
+
