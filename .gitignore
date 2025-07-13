@@ -21,3 +21,9 @@ logs/
 ~/
 .cache/
 
+notebooks/results
+
+models/distilbert-finetuned
+
+data/balanced_amazon_reviews.csv
+
